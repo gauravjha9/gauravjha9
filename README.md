@@ -12,7 +12,7 @@
 <p>On the Journey of learning Artificial Intelligence(AI). Have lots of interest in Coding. Spend Lots of my time to gather something new knowledge of my Interest</p>
 
 
-## 👨‍💻 *Tech Stack I am Familiar With*:
+## 👨‍💻 *Technology I am Familiar With*:
 
 <p align="center">
 <br/>
