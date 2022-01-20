@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Gaurav Jha</h2>
+<h1>Hi 👋, I'm Gaurav Jha</h1>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gaurav-jha-8b697a199/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/gaurav_jha9)
