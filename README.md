@@ -9,7 +9,7 @@
 <br>
 
 <h3><i>About me</i></h3>
-<p>On the Journey of learning Artificial Intelligence(AI). Have lots of interest in Coding. Spend Lots of my time to gather something new knowledge of my Interest</p>
+<p>Software developer passionate about creating elegant and efficient mobile applications. Skilled in building beautiful user interfaces, integrating APIs and services, and optimizing app performance. Experienced in developing cross-platform apps for both iOS and Android. Constantly learning and exploring new technologies to improve app development.</p>
 
 
 ## 👨‍💻 *Technology I am Familiar With*:
