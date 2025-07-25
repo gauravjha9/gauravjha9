@@ -1,27 +1,93 @@
-<h1>Hi 👋, I'm Gaurav Jha</h1>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gaurav-jha-8b697a199/)
-[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/gaurav_jha9)
-[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/gauravjha9)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gauravkumarjha090808@gmail.com)
-
-
-<br>
-
-<h3><i>About me</i></h3>
-<p>Software developer passionate about creating elegant and efficient mobile applications. Skilled in building beautiful user interfaces, integrating APIs and services, and optimizing app performance. Experienced in developing cross-platform apps for both iOS and Android. Constantly learning and exploring new technologies to improve app development.</p>
-
-
-## 👨‍💻 *Technology I am Familiar With*:
+<h1 align="center">Hi 👋, I'm Gaurav Jha</h1>
 
 <p align="center">
-<br/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="margin:2px;"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
-<br/>
+  <a href="https://www.linkedin.com/in/gaurav-jha-8b697a199/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/gaurav_jha9">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+### 🧑‍💻 About Me
+
+I'm a **Software Engineer** passionate about building intelligent, user-friendly, and scalable software solutions. With strong hands-on experience in **Python, Flutter, JavaScript**, and emerging AI technologies, I enjoy solving real-world problems and turning ideas into working products.
+
+My interests lie at the intersection of **mobile development** and **artificial intelligence**, and I’ve worked on everything from **cross-platform mobile apps** to **chat-based AI assistants**.
+
+---
+
+### 🚀 Current Focus
+- 📱 Flutter & Mobile Development (iOS + Android)
+- 🤖 Generative AI | LangChain | LLM Apps
+- 📊 Machine Learning & NLP
+- ⚙️ FastAPI, Django & Backend Systems
+- 🧠 Retrieval Augmented Generation (RAG) with FAISS
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-3E3E3E?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 📱 Featured Projects
+
+### 🔹 [Ask PDF](https://github.com/gauravjha9/ask-pdf)
+An AI-powered chat app that lets users interact with PDF documents using Retrieval-Augmented Generation (RAG). Built with **FastAPI**, **LangChain**, **FAISS**, and **Gemini LLM**.
+
+### 🔹 [Movie Recommendation System](https://github.com/gauravjha9/movie-recommendation-system)
+A content-based movie recommender using TF-IDF and cosine similarity. Deployed as a **Flask app** with a modern **Bootstrap** UI.  
+👉 [Live Demo](https://movie-recommend-06d6.onrender.com/)
+
+### 🔹 [Twitter Sentiment Analysis](https://github.com/gauravjha9/twitter-sentiment-analysis)
+A machine learning model trained on 16M tweets to classify sentiment using **Logistic Regression** and **NLP techniques**.
+
+### 🔹 [10 Days of EDA](https://github.com/gauravjha9/EDA)
+Exploratory data analysis on various datasets using **pandas**, **matplotlib**, and **seaborn**.
+
+---
+
+## 💼 Experience
+
+- **Software Engineer** @ [Marketwick Pvt Ltd](https://marketwick.in) (Nov 2024 - Present)  
+  Developed a scalable trading platform backend with real-time data, order execution, and secure transactions.
+
+- **Software Engineer** @ [Appfoster Innovations Pvt Ltd](https://appfoster.com) (Aug 2022 - Oct 2024)  
+  Worked on cross-platform **Health** and **HR management apps**, emphasizing clean UI and **BLoC state management** in Flutter.
+
+- **Software Engineer** @ Trinesis Technologies (Feb 2022 - Jul 2022)  
+  Built RESTful APIs for user management systems using **Django + DRF**.
+
+---
+
+## 📚 Education
+
+**Bachelor of Computer Applications (BCA)**  
+*RIMT University* – 9.5 SGPA
+
+**AI with Python**  
+*Ducat Institute*
+
+---
+
+## 🎯 Interests
+
+- ♟️ Playing Chess
+- 🎸 Playing Guitar
+- 📈 Learning AI/ML & GenAI
